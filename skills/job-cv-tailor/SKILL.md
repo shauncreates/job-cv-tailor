@@ -2,7 +2,6 @@
 name: job-cv-tailor
 description: Analyse a CV against a specific vacancy, identify evidence and gaps, and tailor job-application materials truthfully. Use for CV/resume reviews, job-specific rewrites, recruiter-skim feedback, or vacancy-focused application writing.
 license: MIT
-compatibility: Works with any agent that supports the Agent Skills SKILL.md format. Document generation depends on the host agent's available file tools.
 metadata:
   author: shauncreates
   version: "2.0.0"
